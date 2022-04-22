@@ -1,7 +1,8 @@
 {
     "compilerOptions": {
+        "target": "es2017",
         "module": "CommonJS",
-        "lib": ["ES2021"],
+        "lib": ["ES2021", "dom", "ES6", "ES2017", "ESNext.AsyncIterable"],
         "noImplicitAny": true,
         "moduleResolution": "node",
         "sourceMap": true,
