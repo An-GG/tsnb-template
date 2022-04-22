@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "lib": ["ES2021"],
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        "outDir": "dist",
+        "esModuleInterop": false,
+        "allowSyntheticDefaultImports": false,
+        "resolveJsonModule": false
+    },
+    "include": [
+        "src/**/*",
+        "index.ts"
+    ]
+
+}
