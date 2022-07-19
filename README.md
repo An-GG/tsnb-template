@@ -15,7 +15,6 @@ function tsnb {
   git init
   git add --all
   git commit -m "init"
-  cd src
-  vim index.ts
+  vim src/index.ts
 }
 ```
