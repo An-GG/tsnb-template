@@ -1,4 +1,4 @@
-#!/usr/bin/env ts-node
+#!/usr/bin/env ts-node-esm
 import getStdin from "get-stdin";
 
 async function main() {
